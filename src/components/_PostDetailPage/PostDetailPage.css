@@ -1,0 +1,9 @@
+.profile-pic {
+    max-width: 200px;
+    max-height: 200px;
+}
+
+.btn-holder {
+    justify-content: flex-end;
+    display: flex;
+}
