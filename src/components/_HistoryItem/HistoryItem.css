@@ -1,0 +1,8 @@
+.postTitle {
+    cursor: pointer;
+}
+
+.postTitle:hover {
+    text-decoration: underline;
+    font-weight: bold;
+  }
