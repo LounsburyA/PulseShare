@@ -1,0 +1,7 @@
+.hoverForPointer:hover {
+    cursor: pointer;
+}
+
+.continue-to-read {
+    color: lightgray;
+}
